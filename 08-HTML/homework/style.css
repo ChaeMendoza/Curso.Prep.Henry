@@ -1,0 +1,30 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,500&display=swap');
+
+/* General */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  background-color: #d1cdd6;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #122735;
+}
+
+/* divs */
+.divClass {
+  width: 100%;
+  max-width: 1200px;
+  align-content: space-between;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
